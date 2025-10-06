@@ -111,9 +111,8 @@ else:
 <h2>Sample Input and Output:</h2>
 SEND = 9567<br>
 MORE = 1085<br>
-<hr>
 MONEY = 10652<br>
-
+<hr>
 <img width="284" height="90" alt="image" src="https://github.com/user-attachments/assets/b206995a-1b55-4801-98a5-6c8f6303e474" />
 
 <hr>
